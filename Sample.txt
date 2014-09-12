@@ -1,5 +1,9 @@
 kaleem you are learning github
 
+<<<<<<< HEAD
 first point changed this
 
 second point change this none
+=======
+first point changed this
+>>>>>>> parent of edfc01a... kaleem_revert
